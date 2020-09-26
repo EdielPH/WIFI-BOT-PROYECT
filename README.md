@@ -2,7 +2,7 @@
 <INTRUCCIONES>
   
  1- Descargar las carpetas css, fonts, images, js y el archivo html
- 1- En visual studio code abrir el archivo html
+ 2- En visual studio code abrir el archivo html
 
   
   
