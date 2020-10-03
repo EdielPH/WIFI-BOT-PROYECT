@@ -7,6 +7,8 @@ FAVOR DE UTILIZAR XAMPP PARA PODER CARGAR EL INDEX.PHP
 MOVER LA CARPETA DEL PROYECTO AL DIRECTORIO: 
 ESTE EQUIPO > OS (C:) > XAMPP > htdocs > scripts
 de no tener la carpeta scripts puede crearla dentro de htdocs
+al inicializar XAMPP ingresar a  http://localhost/scripts/
+y ahora tendra acceso al index.php y podra dar una visualizacion de la pagina
 
 Hola Mundo
   
