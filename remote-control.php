@@ -91,7 +91,8 @@
                     <div class="col-md-offset-3 col-md-6 col-sm-12">
                          <div class="home2-info">
                               <h3>MECH ROBOTIX</h3>
-                              <h1>Desarrolla habilidades tecnológicas!</h1>
+                              <h1>Controla tu Robot!
+                              </h1>
                               
                          </div>
                     </div>
@@ -101,18 +102,35 @@
      </section>
     
 
-    <section>
-        <div class="remote">
-            <div><img src="images/cuadro.png"></div>
-            <div><img src="images/arriba.png"></div>
-            <div><img src="images/cuadro.png"></div>
-            <div><img src="images/izquierda.png"></div>
-            <div><img src="images/centro.png"></div>
-            <div><img src="images/derecha.png"></div>
-            <div><img src="images/cuadro.png"></div>
-            <div><img src="images/abajo.png"></div>
-            <div><img src="images/cuadro.png"></div>
+    <section class="control">
+     <div class="container">
+          <div class="remote">
+
+            <div class="col-sm">
+               <div><img src="images/cuadro.png"></div>
+               <div><img src="images/izquierda.png"></div>
+               <div><img src="images/cuadro.png"></div>
+            </div>
+
+            <div class="col-sm">
+              
+               <div><img src="images/arriba.png"></div>
+               
+               <div><img src="images/centro.png"></div>
+               
+               <div><img src="images/abajo.png"></div>
+               
+            </div>
+
+            <div class="col-sm">
+               <div><img src="images/cuadro.png"></div>
+               <div><img src="images/derecha.png"></div>
+               <div><img src="images/cuadro.png"></div>
+            </div>
+
+          </div>
         </div>
+     
     </section>
 
     
@@ -131,9 +149,9 @@
 
                          <div class="col-md-6 col-sm-6">
                               <ul class="social-icon">
-                                   <li><a href="#" class="fa fa-facebook-square" attr="facebook icon"></a></li>
-                                   <li><a href="#" class="fa fa-twitter"></a></li>
-                                   <li><a href="#" class="fa fa-instagram"></a></li>
+                                   <li><a href="https://www.facebook.com/Mech-Robotix-Academy-218692445372646/" class="fa fa-facebook-square" attr="facebook icon"></a></li>
+                                   <li><a href="https://www.facebook.com/profile.php?id=100022404935671" class="fa fa-facebook"></a></li>
+                                   <li><a href="https://www.youtube.com/channel/UCyOQ4H6I5U16Nt7k_I8dwMA" class="fa fa-youtube-play"></a></li>
                               </ul>
                          </div>
                     </div>
