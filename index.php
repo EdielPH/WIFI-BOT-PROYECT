@@ -13,7 +13,6 @@
 
 //echo $mysqli->host_info . "\n";
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -210,7 +209,7 @@
                               <h1 style="font-size:60px;"> Conoce quienes somos! </h1>
                          </div>
                     </div>
-                    <div class="video">
+                    <div class="col-md-4 col-lg-12">
                          <div class="video">
                               <iframe width="560" height="315" src="https://www.youtube.com/embed/sWhFg_Ab9sY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -223,6 +222,7 @@
                </div>
 
 </section>
+
     
 
 
